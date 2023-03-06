@@ -13,3 +13,18 @@ D:\GB_C-SharpDeveloper\01-C#\obj\Debug\net7.0\refint\01-C#.dll
 D:\GB_C-SharpDeveloper\01-C#\obj\Debug\net7.0\01-C#.pdb
 D:\GB_C-SharpDeveloper\01-C#\obj\Debug\net7.0\01-C#.genruntimeconfig.cache
 D:\GB_C-SharpDeveloper\01-C#\obj\Debug\net7.0\ref\01-C#.dll
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\bin\Debug\net7.0\01-C#.exe
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\bin\Debug\net7.0\01-C#.deps.json
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\bin\Debug\net7.0\01-C#.runtimeconfig.json
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\bin\Debug\net7.0\01-C#.dll
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\bin\Debug\net7.0\01-C#.pdb
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\01-C#.csproj.AssemblyReference.cache
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\01-C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\01-C#.AssemblyInfoInputs.cache
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\01-C#.AssemblyInfo.cs
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\01-C#.csproj.CoreCompileInputs.cache
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\01-C#.dll
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\refint\01-C#.dll
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\01-C#.pdb
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\01-C#.genruntimeconfig.cache
+D:\GB_C-SharpDeveloper\01-Знакомство с языками программирования (семинары)\C-Sharp\Урок_1-Задача_2\obj\Debug\net7.0\ref\01-C#.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GB_C-SharpDeveloper\\01-Знакомство с языками программирования (семинары)\\C-Sharp\\Урок_1-Задача_2\\01-C#.csproj",
+      "projectUniqueName": "D:\\GB_C-SharpDeveloper\\01-C#\\01-C#.csproj",
       "projectName": "01-C#",
-      "projectPath": "D:\\GB_C-SharpDeveloper\\01-Знакомство с языками программирования (семинары)\\C-Sharp\\Урок_1-Задача_2\\01-C#.csproj",
+      "projectPath": "D:\\GB_C-SharpDeveloper\\01-C#\\01-C#.csproj",
       "packagesPath": "C:\\Users\\PDV\\.nuget\\packages\\",
-      "outputPath": "D:\\GB_C-SharpDeveloper\\01-Знакомство с языками программирования (семинары)\\C-Sharp\\Урок_1-Задача_2\\obj\\",
+      "outputPath": "D:\\GB_C-SharpDeveloper\\01-C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
