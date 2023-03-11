@@ -12,7 +12,7 @@ namespace L2_E10
           Console.WriteLine("Введите трёхзначное число");
           int num = Convert.ToInt32(Console.ReadLine());
           if(num <0)
-                num *= -1;
+              num *= -1;
 
             Console.WriteLine($"{num} -> {(num % 100) / 10}");
         }
