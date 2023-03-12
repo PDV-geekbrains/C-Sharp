@@ -3,9 +3,11 @@
 
 * Урок 2
 
-    * [Задача 10]()
-    * [Задача 13]()
-    * [Задача 15]()
+    * [Задача 10](https://github.com/PDV-geekbrains/C-Sharp/tree/main/Урок_2-Задача_10)
+
+    * [Задача 13](https://github.com/PDV-geekbrains/C-Sharp/tree/main/Урок_2-Задача_13)
+
+    * [Задача 15](https://github.com/PDV-geekbrains/C-Sharp/tree/main/Урок_2-Задача_15)
 
 * Урок 1
 
