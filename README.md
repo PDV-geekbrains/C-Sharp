@@ -1,6 +1,13 @@
 # C-Sharp
 # Знакомство с языками программирования (семинары)
 
+* Урок 4
+
+    * [Задача 25](https://github.com/PDV-geekbrains/C-Sharp/tree/main/Урок_4-Задача_25)
+
+    * [Задача 27](https://github.com/PDV-geekbrains/C-Sharp/tree/main/Урок_4-Задача_27)
+
+    * [Задача 29](https://github.com/PDV-geekbrains/C-Sharp/tree/main/Урок_4-Задача_29)
 * Урок 3
 
     * [Задача 19](https://github.com/PDV-geekbrains/C-Sharp/tree/main/Урок_3-Задача_19)
